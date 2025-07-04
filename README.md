@@ -1,5 +1,6 @@
 # Filtrado y Análisis Automatizado de CVs usando IA
 **Proyecto de Inteligencia Artificial y Principios Técnicos**
+Video Tutorial: https://youtu.be/gLHh3tiaidY
 
 ---
 
